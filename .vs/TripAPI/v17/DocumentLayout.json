@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\repositories\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:repositories\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\requestmodels\\assignclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:requestmodels\\assignclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\requestmodels\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:requestmodels\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\requestmodels\\clienttripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:requestmodels\\clienttripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\requestmodels\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:requestmodels\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\requestmodels\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:requestmodels\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\context\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:context\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\tripapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:tripapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|e:\\urgh\\sem 6\\apbd\\\u0107wiczenie 5\\tripapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB94AB89-F62B-4A12-B1D1-310A4E2F9C3B}|TripAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Services\\TripService.cs",
+              "RelativeDocumentMoniker": "Services\\TripService.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Services\\TripService.cs",
+              "RelativeToolTip": "Services\\TripService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITripService.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Services\\ITripService.cs",
+              "RelativeDocumentMoniker": "Services\\ITripService.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Services\\ITripService.cs",
+              "RelativeToolTip": "Services\\ITripService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\TripDTO.cs",
+              "RelativeDocumentMoniker": "RequestModels\\TripDTO.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\TripDTO.cs",
+              "RelativeToolTip": "RequestModels\\TripDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "RequestModels\\CountryDTO.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\CountryDTO.cs",
+              "RelativeToolTip": "RequestModels\\CountryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:11:02.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientTripDTO.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\ClientTripDTO.cs",
+              "RelativeDocumentMoniker": "RequestModels\\ClientTripDTO.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\ClientTripDTO.cs",
+              "RelativeToolTip": "RequestModels\\ClientTripDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "RequestModels\\ClientDTO.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\ClientDTO.cs",
+              "RelativeToolTip": "RequestModels\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:12:08.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignClientDTO.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\AssignClientDTO.cs",
+              "RelativeDocumentMoniker": "RequestModels\\AssignClientDTO.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\RequestModels\\AssignClientDTO.cs",
+              "RelativeToolTip": "RequestModels\\AssignClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:13:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Repositories\\TripRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TripRepository.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Repositories\\TripRepository.cs",
+              "RelativeToolTip": "Repositories\\TripRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITripRepository.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Repositories\\ITripRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITripRepository.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Repositories\\ITripRepository.cs",
+              "RelativeToolTip": "Repositories\\ITripRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Context\\TripContext.cs",
+              "RelativeDocumentMoniker": "Context\\TripContext.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Context\\TripContext.cs",
+              "RelativeToolTip": "Context\\TripContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TripsController.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientTrip.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\ClientTrip.cs",
+              "RelativeDocumentMoniker": "Models\\ClientTrip.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\ClientTrip.cs",
+              "RelativeToolTip": "Models\\ClientTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Country.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryTrip.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\CountryTrip.cs",
+              "RelativeDocumentMoniker": "Models\\CountryTrip.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\CountryTrip.cs",
+              "RelativeToolTip": "Models\\CountryTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "Models\\Trip.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Models\\Trip.cs",
+              "RelativeToolTip": "Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:41:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TripAPI.csproj",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\TripAPI.csproj",
+              "RelativeDocumentMoniker": "TripAPI.csproj",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\TripAPI.csproj",
+              "RelativeToolTip": "TripAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T13:30:13.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T12:41:12.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\urgh\\sem 6\\APBD\\\u0106wiczenie 5\\TripAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T12:41:12.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
